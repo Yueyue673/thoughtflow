@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.openai/
+local-data/
+*.log
+.DS_Store
+Thumbs.db
+coverage/
